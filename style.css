@@ -1,0 +1,17 @@
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+    opacity: 9;
+}
+.thumbnail{
+    margin-top: 20px;
+    display: flex;
+}
+#getUsers{
+    margin-top: 20px;
+    margin-left: 50%;
+}
+.main{
+    background-color:grey;
+}
